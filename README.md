@@ -33,6 +33,10 @@ Um projeto tão grande como este, normalmente, começa com a elaboração de um 
 
 ![image](https://user-images.githubusercontent.com/98292838/166162951-d9079942-0b81-4ea7-a2cf-11328cfd6063.png)
 
+### ✅ Finalizado:
+    
+  ![image](https://user-images.githubusercontent.com/98292838/166163502-c20e2112-75c1-496d-83bd-e241a9b2c18d.png)
+
 
 ## 🛠️ Construído com
 
