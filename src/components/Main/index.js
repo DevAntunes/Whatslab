@@ -1,8 +1,18 @@
 import React from "react";
-import { Container, Aplication, ContainerSend, User, Input,ContainerMessage, Message, MyMessage, BoxMessage, BoxMyMessage, ButtonSend, EmojiContainer} from './styles';
+import { Container, 
+    Aplication, 
+    ContainerSend, 
+    User, 
+    Input,
+    ContainerMessage, 
+    Message, 
+    MyMessage, 
+    BoxMessage, 
+    BoxMyMessage, 
+    ButtonSend} from './styles';
 import ButtonEmojis from "../ButtonEmojis";
 import { IoMdSend } from 'react-icons/io';
-import Picker from 'emoji-picker-react';
+
 
 
 class Main extends React.Component{
